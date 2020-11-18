@@ -13,4 +13,4 @@
 * [数据库审计系统-服务等级协议（SLA）](/sla/udas_sla)
 * [云直播ULive服务等级协议（SLA）](/sla/ulive_sla) 
 * [分布式NewSQL数据库TiDB服务等级协议（SLA）](/sla/tidb_sla) 
-* [托管Hadoop集群UHadoop服务等级协议 (SLA)](/sla/uhadoop_sla)
+* [托管Hadoop集群UHadoop服务等级协议 (SLA) ](/sla/uhadoop_sla)
