@@ -15,3 +15,4 @@
 * [云直播ULive服务等级协议（SLA）](/sla/ulive_sla) 
 * [分布式NewSQL数据库TiDB服务等级协议（SLA）](/sla/tidb_sla) 
 * [托管Hadoop集群UHadoop服务等级协议（SLA）](/sla/uhadoop_sla)
+* [智能大数据平台USDP服务等级协议（SLA）](/sla/usdp_sla)
